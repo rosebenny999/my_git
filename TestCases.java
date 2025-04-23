@@ -6,5 +6,11 @@ class TestCases{
 @Test
 public void testmethod2(){
 	assert(true);
+
 }
+@Test
+public void testmethod3(){
+	assert(true);	
+}
+
 }

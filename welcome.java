@@ -1,2 +1,4 @@
 ﻿Class Welcome{
+void method(){
+}
 }
